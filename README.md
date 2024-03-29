@@ -1,7 +1,7 @@
 
 # ChronoSync
 
-![ChronoSync Logo](chronosync_logo.png)
+![ChronoSync Logo](icon1.png)
 
 ## Description
 ChronoSync is a Flutter project designed to facilitate simple CRUD (Create, Read, Update, Delete) operations for managing todo tasks. It utilizes the Hive database for efficient data storage and retrieval, providing users with a seamless experience in organizing their tasks.
