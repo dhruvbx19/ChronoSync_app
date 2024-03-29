@@ -1,4 +1,4 @@
-```markdown
+
 # ChronoSync
 
 ![ChronoSync Logo](chronosync_logo.png)
